@@ -1,0 +1,11 @@
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.LoppsDemo\LV.LoppsDemo.UI\bin\Debug\LV.LoppsDemo.UI.exe.config
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.LoppsDemo\LV.LoppsDemo.UI\bin\Debug\LV.LoppsDemo.UI.exe
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.LoppsDemo\LV.LoppsDemo.UI\bin\Debug\LV.LoppsDemo.UI.pdb
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.LoppsDemo\LV.LoppsDemo.UI\obj\Debug\LV.LoppsDemo.UI.csproj.AssemblyReference.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.LoppsDemo\LV.LoppsDemo.UI\obj\Debug\LV.LoppsDemo.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.LoppsDemo\LV.LoppsDemo.UI\obj\Debug\LV.LoppsDemo.UI.Form1.resources
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.LoppsDemo\LV.LoppsDemo.UI\obj\Debug\LV.LoppsDemo.UI.Properties.Resources.resources
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.LoppsDemo\LV.LoppsDemo.UI\obj\Debug\LV.LoppsDemo.UI.csproj.GenerateResource.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.LoppsDemo\LV.LoppsDemo.UI\obj\Debug\LV.LoppsDemo.UI.csproj.CoreCompileInputs.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.LoppsDemo\LV.LoppsDemo.UI\obj\Debug\LV.LoppsDemo.UI.exe
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.LoppsDemo\LV.LoppsDemo.UI\obj\Debug\LV.LoppsDemo.UI.pdb
