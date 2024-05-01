@@ -1,0 +1,15 @@
+C:\Users\300044518\source\repos\LV.Variables\LV.Variables.UI\bin\Debug\netcoreapp3.1\LV.Variables.UI.exe
+C:\Users\300044518\source\repos\LV.Variables\LV.Variables.UI\bin\Debug\netcoreapp3.1\LV.Variables.UI.deps.json
+C:\Users\300044518\source\repos\LV.Variables\LV.Variables.UI\bin\Debug\netcoreapp3.1\LV.Variables.UI.runtimeconfig.json
+C:\Users\300044518\source\repos\LV.Variables\LV.Variables.UI\bin\Debug\netcoreapp3.1\LV.Variables.UI.runtimeconfig.dev.json
+C:\Users\300044518\source\repos\LV.Variables\LV.Variables.UI\bin\Debug\netcoreapp3.1\LV.Variables.UI.dll
+C:\Users\300044518\source\repos\LV.Variables\LV.Variables.UI\bin\Debug\netcoreapp3.1\LV.Variables.UI.pdb
+C:\Users\300044518\source\repos\LV.Variables\LV.Variables.UI\obj\Debug\netcoreapp3.1\LV.Variables.UI.csproj.AssemblyReference.cache
+C:\Users\300044518\source\repos\LV.Variables\LV.Variables.UI\obj\Debug\netcoreapp3.1\LV.Variables.UI.Form1.resources
+C:\Users\300044518\source\repos\LV.Variables\LV.Variables.UI\obj\Debug\netcoreapp3.1\LV.Variables.UI.csproj.GenerateResource.cache
+C:\Users\300044518\source\repos\LV.Variables\LV.Variables.UI\obj\Debug\netcoreapp3.1\LV.Variables.UI.AssemblyInfoInputs.cache
+C:\Users\300044518\source\repos\LV.Variables\LV.Variables.UI\obj\Debug\netcoreapp3.1\LV.Variables.UI.AssemblyInfo.cs
+C:\Users\300044518\source\repos\LV.Variables\LV.Variables.UI\obj\Debug\netcoreapp3.1\LV.Variables.UI.csproj.CoreCompileInputs.cache
+C:\Users\300044518\source\repos\LV.Variables\LV.Variables.UI\obj\Debug\netcoreapp3.1\LV.Variables.UI.dll
+C:\Users\300044518\source\repos\LV.Variables\LV.Variables.UI\obj\Debug\netcoreapp3.1\LV.Variables.UI.pdb
+C:\Users\300044518\source\repos\LV.Variables\LV.Variables.UI\obj\Debug\netcoreapp3.1\LV.Variables.UI.genruntimeconfig.cache
