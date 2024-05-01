@@ -1,0 +1,17 @@
+C:\Users\300044518\source\repos\LV.project2\LV.project2.ui\obj\Debug\net6.0-windows\LV.project2.ui.csproj.AssemblyReference.cache
+C:\Users\300044518\source\repos\LV.project2\LV.project2.ui\obj\Debug\net6.0-windows\LV.project2.ui.Form1.resources
+C:\Users\300044518\source\repos\LV.project2\LV.project2.ui\obj\Debug\net6.0-windows\LV.project2.ui.csproj.GenerateResource.cache
+C:\Users\300044518\source\repos\LV.project2\LV.project2.ui\obj\Debug\net6.0-windows\LV.project2.ui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\300044518\source\repos\LV.project2\LV.project2.ui\obj\Debug\net6.0-windows\LV.project2.ui.AssemblyInfoInputs.cache
+C:\Users\300044518\source\repos\LV.project2\LV.project2.ui\obj\Debug\net6.0-windows\LV.project2.ui.AssemblyInfo.cs
+C:\Users\300044518\source\repos\LV.project2\LV.project2.ui\obj\Debug\net6.0-windows\LV.project2.ui.csproj.CoreCompileInputs.cache
+C:\Users\300044518\source\repos\LV.project2\LV.project2.ui\bin\Debug\net6.0-windows\LV.project2.ui.exe
+C:\Users\300044518\source\repos\LV.project2\LV.project2.ui\bin\Debug\net6.0-windows\LV.project2.ui.deps.json
+C:\Users\300044518\source\repos\LV.project2\LV.project2.ui\bin\Debug\net6.0-windows\LV.project2.ui.runtimeconfig.json
+C:\Users\300044518\source\repos\LV.project2\LV.project2.ui\bin\Debug\net6.0-windows\LV.project2.ui.dll
+C:\Users\300044518\source\repos\LV.project2\LV.project2.ui\bin\Debug\net6.0-windows\LV.project2.ui.pdb
+C:\Users\300044518\source\repos\LV.project2\LV.project2.ui\obj\Debug\net6.0-windows\LV.project2.ui.dll
+C:\Users\300044518\source\repos\LV.project2\LV.project2.ui\obj\Debug\net6.0-windows\refint\LV.project2.ui.dll
+C:\Users\300044518\source\repos\LV.project2\LV.project2.ui\obj\Debug\net6.0-windows\LV.project2.ui.pdb
+C:\Users\300044518\source\repos\LV.project2\LV.project2.ui\obj\Debug\net6.0-windows\LV.project2.ui.genruntimeconfig.cache
+C:\Users\300044518\source\repos\LV.project2\LV.project2.ui\obj\Debug\net6.0-windows\ref\LV.project2.ui.dll

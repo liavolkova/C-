@@ -1,0 +1,17 @@
+C:\Users\300044518\source\repos\LV.Project2.2\LV.Project2.2.UI\bin\Debug\net6.0-windows\LV.Project2.2.UI.exe
+C:\Users\300044518\source\repos\LV.Project2.2\LV.Project2.2.UI\bin\Debug\net6.0-windows\LV.Project2.2.UI.deps.json
+C:\Users\300044518\source\repos\LV.Project2.2\LV.Project2.2.UI\bin\Debug\net6.0-windows\LV.Project2.2.UI.runtimeconfig.json
+C:\Users\300044518\source\repos\LV.Project2.2\LV.Project2.2.UI\bin\Debug\net6.0-windows\LV.Project2.2.UI.dll
+C:\Users\300044518\source\repos\LV.Project2.2\LV.Project2.2.UI\bin\Debug\net6.0-windows\LV.Project2.2.UI.pdb
+C:\Users\300044518\source\repos\LV.Project2.2\LV.Project2.2.UI\obj\Debug\net6.0-windows\LV.Project2.2.UI.csproj.AssemblyReference.cache
+C:\Users\300044518\source\repos\LV.Project2.2\LV.Project2.2.UI\obj\Debug\net6.0-windows\LV.Project2._2.UI.Form1.resources
+C:\Users\300044518\source\repos\LV.Project2.2\LV.Project2.2.UI\obj\Debug\net6.0-windows\LV.Project2.2.UI.csproj.GenerateResource.cache
+C:\Users\300044518\source\repos\LV.Project2.2\LV.Project2.2.UI\obj\Debug\net6.0-windows\LV.Project2.2.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\300044518\source\repos\LV.Project2.2\LV.Project2.2.UI\obj\Debug\net6.0-windows\LV.Project2.2.UI.AssemblyInfoInputs.cache
+C:\Users\300044518\source\repos\LV.Project2.2\LV.Project2.2.UI\obj\Debug\net6.0-windows\LV.Project2.2.UI.AssemblyInfo.cs
+C:\Users\300044518\source\repos\LV.Project2.2\LV.Project2.2.UI\obj\Debug\net6.0-windows\LV.Project2.2.UI.csproj.CoreCompileInputs.cache
+C:\Users\300044518\source\repos\LV.Project2.2\LV.Project2.2.UI\obj\Debug\net6.0-windows\LV.Project2.2.UI.dll
+C:\Users\300044518\source\repos\LV.Project2.2\LV.Project2.2.UI\obj\Debug\net6.0-windows\refint\LV.Project2.2.UI.dll
+C:\Users\300044518\source\repos\LV.Project2.2\LV.Project2.2.UI\obj\Debug\net6.0-windows\LV.Project2.2.UI.pdb
+C:\Users\300044518\source\repos\LV.Project2.2\LV.Project2.2.UI\obj\Debug\net6.0-windows\LV.Project2.2.UI.genruntimeconfig.cache
+C:\Users\300044518\source\repos\LV.Project2.2\LV.Project2.2.UI\obj\Debug\net6.0-windows\ref\LV.Project2.2.UI.dll
