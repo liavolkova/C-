@@ -1,0 +1,17 @@
+C:\Users\300044518\source\repos\LV.Demo1\LV.Demo1.UI\bin\Debug\net6.0-windows\LV.Demo1.UI.exe
+C:\Users\300044518\source\repos\LV.Demo1\LV.Demo1.UI\bin\Debug\net6.0-windows\LV.Demo1.UI.deps.json
+C:\Users\300044518\source\repos\LV.Demo1\LV.Demo1.UI\bin\Debug\net6.0-windows\LV.Demo1.UI.runtimeconfig.json
+C:\Users\300044518\source\repos\LV.Demo1\LV.Demo1.UI\bin\Debug\net6.0-windows\LV.Demo1.UI.dll
+C:\Users\300044518\source\repos\LV.Demo1\LV.Demo1.UI\bin\Debug\net6.0-windows\LV.Demo1.UI.pdb
+C:\Users\300044518\source\repos\LV.Demo1\LV.Demo1.UI\obj\Debug\net6.0-windows\LV.Demo1.UI.csproj.AssemblyReference.cache
+C:\Users\300044518\source\repos\LV.Demo1\LV.Demo1.UI\obj\Debug\net6.0-windows\LV.Demo1.UI.Form1.resources
+C:\Users\300044518\source\repos\LV.Demo1\LV.Demo1.UI\obj\Debug\net6.0-windows\LV.Demo1.UI.csproj.GenerateResource.cache
+C:\Users\300044518\source\repos\LV.Demo1\LV.Demo1.UI\obj\Debug\net6.0-windows\LV.Demo1.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\300044518\source\repos\LV.Demo1\LV.Demo1.UI\obj\Debug\net6.0-windows\LV.Demo1.UI.AssemblyInfoInputs.cache
+C:\Users\300044518\source\repos\LV.Demo1\LV.Demo1.UI\obj\Debug\net6.0-windows\LV.Demo1.UI.AssemblyInfo.cs
+C:\Users\300044518\source\repos\LV.Demo1\LV.Demo1.UI\obj\Debug\net6.0-windows\LV.Demo1.UI.csproj.CoreCompileInputs.cache
+C:\Users\300044518\source\repos\LV.Demo1\LV.Demo1.UI\obj\Debug\net6.0-windows\LV.Demo1.UI.dll
+C:\Users\300044518\source\repos\LV.Demo1\LV.Demo1.UI\obj\Debug\net6.0-windows\refint\LV.Demo1.UI.dll
+C:\Users\300044518\source\repos\LV.Demo1\LV.Demo1.UI\obj\Debug\net6.0-windows\LV.Demo1.UI.pdb
+C:\Users\300044518\source\repos\LV.Demo1\LV.Demo1.UI\obj\Debug\net6.0-windows\LV.Demo1.UI.genruntimeconfig.cache
+C:\Users\300044518\source\repos\LV.Demo1\LV.Demo1.UI\obj\Debug\net6.0-windows\ref\LV.Demo1.UI.dll

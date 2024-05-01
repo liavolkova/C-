@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LV.Demo1.UI/1.0.0": {
+        "runtime": {
+          "LV.Demo1.UI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LV.Demo1.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
