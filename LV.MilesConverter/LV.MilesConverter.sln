@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LV.MilesConverter", "LV.Practice\LV.MilesConverter.csproj", "{D9ED251F-7000-436B-9883-894D975BE4DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9ED251F-7000-436B-9883-894D975BE4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9ED251F-7000-436B-9883-894D975BE4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9ED251F-7000-436B-9883-894D975BE4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9ED251F-7000-436B-9883-894D975BE4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E404ACA4-C2F8-4B06-8812-F8DB31F8A957}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week5\practice\LV.Practice\LV.Practice\bin\Debug\LV.Practice.exe.config
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week5\practice\LV.Practice\LV.Practice\bin\Debug\LV.Practice.exe
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week5\practice\LV.Practice\LV.Practice\bin\Debug\LV.Practice.pdb
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week5\practice\LV.Practice\LV.Practice\obj\Debug\LV.MilesConverter.csproj.AssemblyReference.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week5\practice\LV.Practice\LV.Practice\obj\Debug\LV.MilesConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week5\practice\LV.Practice\LV.Practice\obj\Debug\LV.Practice.Form1.resources
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week5\practice\LV.Practice\LV.Practice\obj\Debug\LV.Practice.Properties.Resources.resources
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week5\practice\LV.Practice\LV.Practice\obj\Debug\LV.MilesConverter.csproj.GenerateResource.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week5\practice\LV.Practice\LV.Practice\obj\Debug\LV.MilesConverter.csproj.CoreCompileInputs.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week5\practice\LV.Practice\LV.Practice\obj\Debug\LV.Practice.exe
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week5\practice\LV.Practice\LV.Practice\obj\Debug\LV.Practice.pdb
