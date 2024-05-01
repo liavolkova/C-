@@ -1,0 +1,15 @@
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.GuessingGame\LV.GuessingGame.UI\bin\Debug\net6.0\LV.GuessingGame.UI.exe
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.GuessingGame\LV.GuessingGame.UI\bin\Debug\net6.0\LV.GuessingGame.UI.deps.json
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.GuessingGame\LV.GuessingGame.UI\bin\Debug\net6.0\LV.GuessingGame.UI.runtimeconfig.json
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.GuessingGame\LV.GuessingGame.UI\bin\Debug\net6.0\LV.GuessingGame.UI.dll
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.GuessingGame\LV.GuessingGame.UI\bin\Debug\net6.0\LV.GuessingGame.UI.pdb
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.GuessingGame\LV.GuessingGame.UI\obj\Debug\net6.0\LV.GuessingGame.UI.csproj.AssemblyReference.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.GuessingGame\LV.GuessingGame.UI\obj\Debug\net6.0\LV.GuessingGame.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.GuessingGame\LV.GuessingGame.UI\obj\Debug\net6.0\LV.GuessingGame.UI.AssemblyInfoInputs.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.GuessingGame\LV.GuessingGame.UI\obj\Debug\net6.0\LV.GuessingGame.UI.AssemblyInfo.cs
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.GuessingGame\LV.GuessingGame.UI\obj\Debug\net6.0\LV.GuessingGame.UI.csproj.CoreCompileInputs.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.GuessingGame\LV.GuessingGame.UI\obj\Debug\net6.0\LV.GuessingGame.UI.dll
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.GuessingGame\LV.GuessingGame.UI\obj\Debug\net6.0\refint\LV.GuessingGame.UI.dll
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.GuessingGame\LV.GuessingGame.UI\obj\Debug\net6.0\LV.GuessingGame.UI.pdb
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.GuessingGame\LV.GuessingGame.UI\obj\Debug\net6.0\LV.GuessingGame.UI.genruntimeconfig.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.GuessingGame\LV.GuessingGame.UI\obj\Debug\net6.0\ref\LV.GuessingGame.UI.dll
