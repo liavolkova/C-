@@ -1,0 +1,17 @@
+C:\Users\300044518\source\repos\LV.HelloWorld\LV.HelloWorld.UI\bin\Debug\net6.0-windows\LV.HelloWorld.UI.exe
+C:\Users\300044518\source\repos\LV.HelloWorld\LV.HelloWorld.UI\bin\Debug\net6.0-windows\LV.HelloWorld.UI.deps.json
+C:\Users\300044518\source\repos\LV.HelloWorld\LV.HelloWorld.UI\bin\Debug\net6.0-windows\LV.HelloWorld.UI.runtimeconfig.json
+C:\Users\300044518\source\repos\LV.HelloWorld\LV.HelloWorld.UI\bin\Debug\net6.0-windows\LV.HelloWorld.UI.dll
+C:\Users\300044518\source\repos\LV.HelloWorld\LV.HelloWorld.UI\bin\Debug\net6.0-windows\LV.HelloWorld.UI.pdb
+C:\Users\300044518\source\repos\LV.HelloWorld\LV.HelloWorld.UI\obj\Debug\net6.0-windows\LV.HelloWorld.UI.csproj.AssemblyReference.cache
+C:\Users\300044518\source\repos\LV.HelloWorld\LV.HelloWorld.UI\obj\Debug\net6.0-windows\LV.HelloWorld.UI.Form1.resources
+C:\Users\300044518\source\repos\LV.HelloWorld\LV.HelloWorld.UI\obj\Debug\net6.0-windows\LV.HelloWorld.UI.csproj.GenerateResource.cache
+C:\Users\300044518\source\repos\LV.HelloWorld\LV.HelloWorld.UI\obj\Debug\net6.0-windows\LV.HelloWorld.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\300044518\source\repos\LV.HelloWorld\LV.HelloWorld.UI\obj\Debug\net6.0-windows\LV.HelloWorld.UI.AssemblyInfoInputs.cache
+C:\Users\300044518\source\repos\LV.HelloWorld\LV.HelloWorld.UI\obj\Debug\net6.0-windows\LV.HelloWorld.UI.AssemblyInfo.cs
+C:\Users\300044518\source\repos\LV.HelloWorld\LV.HelloWorld.UI\obj\Debug\net6.0-windows\LV.HelloWorld.UI.csproj.CoreCompileInputs.cache
+C:\Users\300044518\source\repos\LV.HelloWorld\LV.HelloWorld.UI\obj\Debug\net6.0-windows\LV.HelloWorld.UI.dll
+C:\Users\300044518\source\repos\LV.HelloWorld\LV.HelloWorld.UI\obj\Debug\net6.0-windows\refint\LV.HelloWorld.UI.dll
+C:\Users\300044518\source\repos\LV.HelloWorld\LV.HelloWorld.UI\obj\Debug\net6.0-windows\LV.HelloWorld.UI.pdb
+C:\Users\300044518\source\repos\LV.HelloWorld\LV.HelloWorld.UI\obj\Debug\net6.0-windows\LV.HelloWorld.UI.genruntimeconfig.cache
+C:\Users\300044518\source\repos\LV.HelloWorld\LV.HelloWorld.UI\obj\Debug\net6.0-windows\ref\LV.HelloWorld.UI.dll
