@@ -1,0 +1,12 @@
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.MethodsDemo\LV.MethodsDemo.UI\bin\Debug\LV.MethodsDemo.UI.exe.config
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.MethodsDemo\LV.MethodsDemo.UI\bin\Debug\LV.MethodsDemo.UI.exe
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.MethodsDemo\LV.MethodsDemo.UI\bin\Debug\LV.MethodsDemo.UI.pdb
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.MethodsDemo\LV.MethodsDemo.UI\obj\Debug\LV.MethodsDemo.UI.csproj.AssemblyReference.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.MethodsDemo\LV.MethodsDemo.UI\obj\Debug\LV.MethodsDemo.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.MethodsDemo\LV.MethodsDemo.UI\obj\Debug\LV.MethodsDemo.UI.Form1.resources
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.MethodsDemo\LV.MethodsDemo.UI\obj\Debug\LV.MethodsDemo.UI.Properties.Resources.resources
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.MethodsDemo\LV.MethodsDemo.UI\obj\Debug\LV.MethodsDemo.UI.csproj.GenerateResource.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.MethodsDemo\LV.MethodsDemo.UI\obj\Debug\LV.MethodsDemo.UI.csproj.CoreCompileInputs.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.MethodsDemo\LV.MethodsDemo.UI\obj\Debug\LV.MethodsDemo.UI.exe
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.MethodsDemo\LV.MethodsDemo.UI\obj\Debug\LV.MethodsDemo.UI.pdb
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week11\LV.MethodsDemo\LV.MethodsDemo.UI\obj\Debug\LV.MethodsDemo.UI.AboutForm.resources
