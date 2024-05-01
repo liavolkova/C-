@@ -1,0 +1,11 @@
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week8\LV.SwitchCase\LV.SwitchCase.UI\bin\Debug\LV.SwitchCase.UI.exe.config
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week8\LV.SwitchCase\LV.SwitchCase.UI\bin\Debug\LV.SwitchCase.UI.exe
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week8\LV.SwitchCase\LV.SwitchCase.UI\bin\Debug\LV.SwitchCase.UI.pdb
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week8\LV.SwitchCase\LV.SwitchCase.UI\obj\Debug\LV.SwitchCase.UI.csproj.AssemblyReference.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week8\LV.SwitchCase\LV.SwitchCase.UI\obj\Debug\LV.SwitchCase.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week8\LV.SwitchCase\LV.SwitchCase.UI\obj\Debug\LV.SwitchCase.UI.Form1.resources
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week8\LV.SwitchCase\LV.SwitchCase.UI\obj\Debug\LV.SwitchCase.UI.Properties.Resources.resources
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week8\LV.SwitchCase\LV.SwitchCase.UI\obj\Debug\LV.SwitchCase.UI.csproj.GenerateResource.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week8\LV.SwitchCase\LV.SwitchCase.UI\obj\Debug\LV.SwitchCase.UI.csproj.CoreCompileInputs.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week8\LV.SwitchCase\LV.SwitchCase.UI\obj\Debug\LV.SwitchCase.UI.exe
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week8\LV.SwitchCase\LV.SwitchCase.UI\obj\Debug\LV.SwitchCase.UI.pdb

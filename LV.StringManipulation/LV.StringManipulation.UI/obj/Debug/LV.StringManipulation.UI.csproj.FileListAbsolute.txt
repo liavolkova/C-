@@ -1,0 +1,11 @@
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week8\LV.StringManipulation\LV.StringManipulation.UI\bin\Debug\LV.StringManipulation.UI.exe.config
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week8\LV.StringManipulation\LV.StringManipulation.UI\bin\Debug\LV.StringManipulation.UI.exe
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week8\LV.StringManipulation\LV.StringManipulation.UI\bin\Debug\LV.StringManipulation.UI.pdb
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week8\LV.StringManipulation\LV.StringManipulation.UI\obj\Debug\LV.StringManipulation.UI.csproj.AssemblyReference.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week8\LV.StringManipulation\LV.StringManipulation.UI\obj\Debug\LV.StringManipulation.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week8\LV.StringManipulation\LV.StringManipulation.UI\obj\Debug\LV.StringManipulation.UI.Form1.resources
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week8\LV.StringManipulation\LV.StringManipulation.UI\obj\Debug\LV.StringManipulation.UI.Properties.Resources.resources
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week8\LV.StringManipulation\LV.StringManipulation.UI\obj\Debug\LV.StringManipulation.UI.csproj.GenerateResource.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week8\LV.StringManipulation\LV.StringManipulation.UI\obj\Debug\LV.StringManipulation.UI.csproj.CoreCompileInputs.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week8\LV.StringManipulation\LV.StringManipulation.UI\obj\Debug\LV.StringManipulation.UI.exe
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week8\LV.StringManipulation\LV.StringManipulation.UI\obj\Debug\LV.StringManipulation.UI.pdb

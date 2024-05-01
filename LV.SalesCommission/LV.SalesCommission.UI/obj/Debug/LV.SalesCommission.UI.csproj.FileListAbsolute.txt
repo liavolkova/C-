@@ -1,0 +1,11 @@
+C:\Users\liana\OneDrive - Fox Valley Technical College\c# intro\week8\LV.SalesCommission\LV.SalesCommission.UI\bin\Debug\LV.SalesCommission.UI.exe.config
+C:\Users\liana\OneDrive - Fox Valley Technical College\c# intro\week8\LV.SalesCommission\LV.SalesCommission.UI\bin\Debug\LV.SalesCommission.UI.exe
+C:\Users\liana\OneDrive - Fox Valley Technical College\c# intro\week8\LV.SalesCommission\LV.SalesCommission.UI\bin\Debug\LV.SalesCommission.UI.pdb
+C:\Users\liana\OneDrive - Fox Valley Technical College\c# intro\week8\LV.SalesCommission\LV.SalesCommission.UI\obj\Debug\LV.SalesCommission.UI.csproj.AssemblyReference.cache
+C:\Users\liana\OneDrive - Fox Valley Technical College\c# intro\week8\LV.SalesCommission\LV.SalesCommission.UI\obj\Debug\LV.SalesCommission.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\liana\OneDrive - Fox Valley Technical College\c# intro\week8\LV.SalesCommission\LV.SalesCommission.UI\obj\Debug\LV.SalesCommission.UI.Form1.resources
+C:\Users\liana\OneDrive - Fox Valley Technical College\c# intro\week8\LV.SalesCommission\LV.SalesCommission.UI\obj\Debug\LV.SalesCommission.UI.Properties.Resources.resources
+C:\Users\liana\OneDrive - Fox Valley Technical College\c# intro\week8\LV.SalesCommission\LV.SalesCommission.UI\obj\Debug\LV.SalesCommission.UI.csproj.GenerateResource.cache
+C:\Users\liana\OneDrive - Fox Valley Technical College\c# intro\week8\LV.SalesCommission\LV.SalesCommission.UI\obj\Debug\LV.SalesCommission.UI.csproj.CoreCompileInputs.cache
+C:\Users\liana\OneDrive - Fox Valley Technical College\c# intro\week8\LV.SalesCommission\LV.SalesCommission.UI\obj\Debug\LV.SalesCommission.UI.exe
+C:\Users\liana\OneDrive - Fox Valley Technical College\c# intro\week8\LV.SalesCommission\LV.SalesCommission.UI\obj\Debug\LV.SalesCommission.UI.pdb
