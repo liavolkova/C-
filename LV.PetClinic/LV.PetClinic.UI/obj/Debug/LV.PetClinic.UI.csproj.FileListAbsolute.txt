@@ -1,0 +1,11 @@
+C:\Users\liana\OneDrive - Fox Valley Technical College\c# intro\week8\LV.PetClinic\LV.PetClinic.UI\bin\Debug\LV.PetClinic.UI.exe.config
+C:\Users\liana\OneDrive - Fox Valley Technical College\c# intro\week8\LV.PetClinic\LV.PetClinic.UI\bin\Debug\LV.PetClinic.UI.exe
+C:\Users\liana\OneDrive - Fox Valley Technical College\c# intro\week8\LV.PetClinic\LV.PetClinic.UI\bin\Debug\LV.PetClinic.UI.pdb
+C:\Users\liana\OneDrive - Fox Valley Technical College\c# intro\week8\LV.PetClinic\LV.PetClinic.UI\obj\Debug\LV.PetClinic.UI.csproj.AssemblyReference.cache
+C:\Users\liana\OneDrive - Fox Valley Technical College\c# intro\week8\LV.PetClinic\LV.PetClinic.UI\obj\Debug\LV.PetClinic.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\liana\OneDrive - Fox Valley Technical College\c# intro\week8\LV.PetClinic\LV.PetClinic.UI\obj\Debug\LV.PetClinic.UI.Form1.resources
+C:\Users\liana\OneDrive - Fox Valley Technical College\c# intro\week8\LV.PetClinic\LV.PetClinic.UI\obj\Debug\LV.PetClinic.UI.Properties.Resources.resources
+C:\Users\liana\OneDrive - Fox Valley Technical College\c# intro\week8\LV.PetClinic\LV.PetClinic.UI\obj\Debug\LV.PetClinic.UI.csproj.GenerateResource.cache
+C:\Users\liana\OneDrive - Fox Valley Technical College\c# intro\week8\LV.PetClinic\LV.PetClinic.UI\obj\Debug\LV.PetClinic.UI.csproj.CoreCompileInputs.cache
+C:\Users\liana\OneDrive - Fox Valley Technical College\c# intro\week8\LV.PetClinic\LV.PetClinic.UI\obj\Debug\LV.PetClinic.UI.exe
+C:\Users\liana\OneDrive - Fox Valley Technical College\c# intro\week8\LV.PetClinic\LV.PetClinic.UI\obj\Debug\LV.PetClinic.UI.pdb
