@@ -1,0 +1,11 @@
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week3\exam\Exam1Form\Exam1Volkova\bin\Debug\Exam1Volkova.exe.config
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week3\exam\Exam1Form\Exam1Volkova\bin\Debug\Exam1Volkova.exe
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week3\exam\Exam1Form\Exam1Volkova\bin\Debug\Exam1Volkova.pdb
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week3\exam\Exam1Form\Exam1Volkova\obj\Debug\Exam1Volkova.csproj.AssemblyReference.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week3\exam\Exam1Form\Exam1Volkova\obj\Debug\Exam1Volkova.csproj.SuggestedBindingRedirects.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week3\exam\Exam1Form\Exam1Volkova\obj\Debug\Exam1Volkova.Form.resources
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week3\exam\Exam1Form\Exam1Volkova\obj\Debug\Exam1Volkova.Properties.Resources.resources
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week3\exam\Exam1Form\Exam1Volkova\obj\Debug\Exam1Volkova.csproj.GenerateResource.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week3\exam\Exam1Form\Exam1Volkova\obj\Debug\Exam1Volkova.csproj.CoreCompileInputs.cache
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week3\exam\Exam1Form\Exam1Volkova\obj\Debug\Exam1Volkova.exe
+C:\Users\300044518\OneDrive - Fox Valley Technical College\c# intro\week3\exam\Exam1Form\Exam1Volkova\obj\Debug\Exam1Volkova.pdb
